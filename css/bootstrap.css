@@ -10,6 +10,10 @@ html {
       -ms-text-size-adjust: 100%;
 }
 body {
+  background-image: url("/photos/bearcreek.jpg");
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-position: static;
   margin: 0;
 }
 article,
