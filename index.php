@@ -9,7 +9,7 @@
 	</head>
 	<body>
 	 	
-		
+		<div id="nav-container">
 			<div id="wrapper">
 					
 					
@@ -35,7 +35,7 @@
 					
 				
 			</div>
-		
+		</div>
 	</body>
 
 </html>
