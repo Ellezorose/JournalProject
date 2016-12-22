@@ -7,62 +7,32 @@ body{
 
 
 #wrapper{
-	display: block;
- 	position: absolute;
+    background-image: url(/photos/arrow2.png);
+    display: flex;
+    flex-wrap: wrap;
+	position: absolute;
     width: 300px;
     height: 300px;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
+    margin: auto;
+}
+ 
+.width-1-1 {
+    width: 100%;
+    height: 33.33%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
-#container{
-	/*display: block;*/
-	margin: auto;
- 	position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-}
-
-/*.clearfix:after{
-    width: 300px;
-    height: 300px;
-    content:"";
-    display:table;
-    clear:both;
-}
-
-.box {
-    float:left;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-}*/
-
-#top{
-    width: 100%; 
-    height: 100px;
-    padding-top: 50px;
-    position: center;
-    text-align: center;
-}
-
-#left{
-    width: 150px;
-    height: 100px; 
-    padding-top: 40px;
-    text-align: center;
-    float: left;
-}
-
-#right{
-    width: 150px;
-    height: 100px;
-    padding-top: 40px;
-    float: left;
-    text-align: center;
+.width-1-2 {
+    width: 50%;
+    height: 33.33%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 a{

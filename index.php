@@ -8,30 +8,34 @@
 		<script src="js/bootstrap.js"></script>
 	</head>
 	<body>
-		<div id="container">
-			<img src="photos/arrow2.png">
+	 	
+		
 			<div id="wrapper">
-				
 					
-						<div id="top">
+					
+						<div class="width-1-1">
 							<a href="journalentry.php"> NEW ENTRY  </a></li>
 						</div>
 						
 							<!-- <li><a href="life.html"> LIFE </a></li> -->
 						
-						<div id="left">
+						<div class="width-1-2">
 							<a href="calendar.php"> CALENDAR </a></li>
 						</div>
 
-						<div id="right">
+						<div class="width-1-2">
 							<a href="tags.php"> TAGS </a></li>
+						</div>
+
+						<div class="width-1-1">
+							<a href="settings.php"> SETTINGS </a></li>
 						</div>
 
 							<!-- <li><a href="#"> CONTACT </a></li> -->
 					
 				
 			</div>
-		</div>
+		
 	</body>
 
 </html>
