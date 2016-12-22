@@ -14,17 +14,17 @@
 				
 					
 						<div id="top">
-							<li><a href="journalentry.php"> NEW ENTRY  </a></li>
+							<a href="journalentry.php"> NEW ENTRY  </a></li>
 						</div>
 						
 							<!-- <li><a href="life.html"> LIFE </a></li> -->
 						
 						<div id="left">
-							<li><a href="calendar.php"> CALENDAR </a></li>
+							<a href="calendar.php"> CALENDAR </a></li>
 						</div>
 
 						<div id="right">
-							<li><a href="tags.php"> TAGS </a></li>
+							<a href="tags.php"> TAGS </a></li>
 						</div>
 
 							<!-- <li><a href="#"> CONTACT </a></li> -->
